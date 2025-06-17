@@ -1,0 +1,1 @@
+import React from "react"; export function Footer() { return <footer className="border-t bg-muted/40 py-6"><div className="container"><div className="text-center text-sm text-muted-foreground"><p>© 2024 Vena Solutions. FP&A Copilot MVP Demo.</p></div></div></footer> }
